@@ -2,6 +2,7 @@
 
 ## Что из себя представляет
 Postman коллекция для тестирования REST API (JSONPlaceholder):
+
 9 позитивных и 1 негативный сценарий, проверки статус кодов и структуры JSON.
 Используются эндпоинты /posts и /comments
 
@@ -18,4 +19,5 @@ Postman коллекция для тестирования REST API (JSONPlaceho
     Import - выбрать файл `jsonplaceholder_enviroment.json`
 3. Выбор окружения в коллекции
     Перейти в коллекцию - выбрать окружение `jsonplaceholder`
+
 
